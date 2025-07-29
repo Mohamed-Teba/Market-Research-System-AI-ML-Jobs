@@ -2,8 +2,6 @@
 
 Welcome to the **Market Research System for AI/ML Jobs**! 🚀 This project aims to create a powerful tool to analyze and generate insights into job opportunities in the Artificial Intelligence (AI) and Machine Learning (ML) industry. By leveraging machine learning and data science techniques, this system will help job seekers, recruiters, and companies understand trends, demands, and opportunities in the AI/ML job market. 🌟
 
-*(Note: The repository is currently empty, but this README outlines the planned structure and goals.)*
-
 ---
 
 ## 🌟 Overview
@@ -97,10 +95,7 @@ Once the repository is populated, follow these steps to set up and run the proje
 
 ## 👤 Author
 
-**Mohamed Ibrahim Hussein Hussein Teba**  
-🆔 ID: 2305026  
-🏫 Faculty of Computer and Data Science, Alexandria University  
-
+- **Mohamed Teba**  
 ---
 
 ## 🙌 Acknowledgments
@@ -112,7 +107,7 @@ Once the repository is populated, follow these steps to set up and run the proje
 
 ## 📜 License
 
-This project will be licensed under the MIT License. See the [LICENSE](LICENSE) file for details once available.
+This project will be licensed under the MIT License.
 
 ---
 
